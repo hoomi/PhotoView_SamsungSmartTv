@@ -1,0 +1,24 @@
+#SceneScene2 {
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 1280px;
+	height : 720px;
+	background-color : #ffffff;
+	background-image : url('');
+}
+#SceneScene2 #big_image{
+	position : absolute;
+	left : 390px;
+	top : 30px;
+	width : 311px;
+	height : 341px;
+}
+#SceneScene2 #picture_label{
+	position : absolute;
+	font-size : 10pt;
+	color : #000000;
+	left : 460px;
+	top : 430px;
+	width : 130px;
+}
